@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>答案 - 分类 - 不正经的安全实验室</title>
+        <link>https://acseclab.github.io/categories/%E7%AD%94%E6%A1%88/</link>
+        <description>答案 - 分类 - 不正经的安全实验室</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>acseclab@163.com (不正经的安全实验室)</managingEditor>
+            <webMaster>acseclab@163.com (不正经的安全实验室)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 26 Jul 2022 16:30:05 &#43;0800</lastBuildDate><atom:link href="https://acseclab.github.io/categories/%E7%AD%94%E6%A1%88/" rel="self" type="application/rss+xml" /><item>
+    <title>答案 第一章</title>
+    <link>https://acseclab.github.io/%E7%AD%94%E6%A1%88%E7%AC%AC%E4%B8%80%E7%AB%A0/</link>
+    <pubDate>Tue, 26 Jul 2022 16:30:05 &#43;0800</pubDate>
+    <author>狂霸酷炫吊炸天之究极无敌干碎一切龙王富少</author>
+    <guid>https://acseclab.github.io/%E7%AD%94%E6%A1%88%E7%AC%AC%E4%B8%80%E7%AB%A0/</guid>
+    <description><![CDATA[<p>越是执着，越是找不到。</p>]]></description>
+</item>
+</channel>
+</rss>
